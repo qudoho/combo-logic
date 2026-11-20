@@ -17,4 +17,4 @@ Turn on inputs 1, 2, and 3. Check the truth table for 2 bit adder
 
 ## External hardware
 
-LEDs
+We used LEDs
