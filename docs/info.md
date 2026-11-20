@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Its a 2 bit adder.
 
 ## How to test
 
-Explain how to use your project
+Turn on inputs 1, 2, and 3. Check the truth table for 2 bit adder
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+LEDs
